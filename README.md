@@ -1,1 +1,1 @@
-# kurallar
+Deneme
